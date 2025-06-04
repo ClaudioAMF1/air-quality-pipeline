@@ -328,100 +328,12 @@ O sistema utiliza 8 containers Docker especializados:
 - **Correlação**: Temperatura inversamente proporcional à poluição
 - **Eventos**: Identificação de episódios extremos
 
-## 🤝 Contribuindo
-
-### **Como Contribuir**
-1. **Fork** o repositório
-2. **Clone** para sua máquina local
-3. **Crie** uma branch: `git checkout -b feature/nova-funcionalidade`
-4. **Desenvolva** e teste suas mudanças
-5. **Commit**: `git commit -m 'feat: adiciona nova funcionalidade'`
-6. **Push**: `git push origin feature/nova-funcionalidade`
-7. **Abra** um Pull Request detalhado
-
-### **Áreas para Contribuição**
-- **📊 Visualizações**: Novos tipos de gráficos
-- **🔧 Otimizações**: Performance e escalabilidade
-- **📱 Mobile**: Responsividade do dashboard
-- **🧪 Testes**: Cobertura de testes automatizados
-- **📚 Documentação**: Tutoriais e exemplos
-- **🔌 Integrações**: Conectores para outras fontes
-
-### **Padrões de Desenvolvimento**
-- **Commits**: Usar conventional commits
-- **Código**: Seguir PEP 8 para Python
-- **Testes**: Incluir testes para novas funcionalidades
-- **Docs**: Atualizar documentação relevante
-
-## 🚀 Roadmap Futuro
-
-### **v2.0 - Escalabilidade**
-- [ ] Kubernetes deployment
-- [ ] Kafka Streams para processamento avançado
-- [ ] ClickHouse para analytics OLAP
-- [ ] Grafana para monitoramento avançado
-
-### **v2.1 - Machine Learning**
-- [ ] Modelos de previsão de qualidade do ar
-- [ ] Detecção de anomalias automática
-- [ ] Classificação de eventos críticos
-- [ ] API de predições em tempo real
-
-### **v2.2 - Integrações**
-- [ ] Conectores para APIs externas de clima
-- [ ] Integração com sensores IoT
-- [ ] Webhooks para notificações
-- [ ] Export para Data Warehouses
-
-## 📚 Recursos Adicionais
-
-### **Documentação Técnica**
-- [Instalação Detalhada](docs/INSTALLATION.md)
-- [API Documentation](docs/API.md)
-- [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
-- [Performance Tuning](docs/PERFORMANCE.md)
-
-### **Tutoriais**
-- [Setup do Ambiente de Desenvolvimento](docs/DEV_SETUP.md)
-- [Como Adicionar Novos Sensores](docs/ADD_SENSORS.md)
-- [Customização do Dashboard](docs/DASHBOARD_CUSTOM.md)
-- [Deploy em Produção](docs/PRODUCTION.md)
-
-## 📄 Licença
-
-Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-```
-MIT License
-
-Copyright (c) 2025 ClaudioAMF1
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
 ## 👨‍💻 Autor
 
 **Claudio AMF**
 - 🐙 GitHub: [@ClaudioAMF1](https://github.com/ClaudioAMF1)
-- 💼 LinkedIn: [Seu Perfil LinkedIn](https://linkedin.com/in/seu-perfil)
-- 📧 Email: seu.email@exemplo.com
-- 🌐 Portfolio: [Seu Portfolio](https://seu-portfolio.com)
-
-## 🙏 Agradecimentos
-
-- **Dataset**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Air+Quality) pela disponibilização dos dados
-- **Comunidade Open Source**: Por todas as ferramentas incríveis utilizadas
-- **Apache Software Foundation**: Kafka e Airflow
-- **Docker Community**: Por simplificar o deployment
-- **Streamlit Team**: Por democratizar a criação de dashboards
+- 💼 LinkedIn: [Seu Perfil LinkedIn](https://linkedin.com/in/ClaudioAMF1)
+- 📧 Email: cmeireles756@gmail.com
 
 ## 📊 Estatísticas do Projeto
 
@@ -437,8 +349,6 @@ copies or substantial portions of the Software.
 <div align="center">
 
 **⭐ Se este projeto te ajudou, considere deixar uma estrela! ⭐**
-
-**🚀 Feito com ❤️ para a comunidade de Data Engineering 🚀**
 
 [⬆️ Voltar ao topo](#-air-quality-real-time-pipeline)
 

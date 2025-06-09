@@ -344,11 +344,4 @@ O sistema utiliza 8 containers Docker especializados:
 ![GitHub last commit](https://img.shields.io/github/last-commit/ClaudioAMF1/air-quality-pipeline)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ClaudioAMF1/air-quality-pipeline)
 
----
 
-<div align="center">
-
-
-[⬆️ Voltar ao topo](#-air-quality-real-time-pipeline)
-
-</div>

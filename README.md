@@ -348,7 +348,6 @@ O sistema utiliza 8 containers Docker especializados:
 
 <div align="center">
 
-**⭐ Se este projeto te ajudou, considere deixar uma estrela! ⭐**
 
 [⬆️ Voltar ao topo](#-air-quality-real-time-pipeline)
 

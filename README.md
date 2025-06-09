@@ -134,7 +134,7 @@ air-quality-pipeline/
 ├── 📁 data/                          # Dataset de qualidade do ar
 │   └── AirQualityUCI_Treated.csv    # 6.942 registros (616KB)
 ├── 📁 docker/                        # Configurações Docker
-│   └── docker-compose.yml           # Orquestração de 8 serviços
+│   └── docker-compose.yml           # Orquestração principal
 ├── 📁 kafka/                         # Kafka Producer
 │   ├── producer.py                   # Ingestão otimizada para grandes volumes
 │   └── requirements.txt
@@ -158,7 +158,6 @@ air-quality-pipeline/
 │   └── cleanup.sh                    # Limpeza do ambiente
 ├── 📄 README.md                      # Documentação principal
 ├── 📄 .gitignore                     # Arquivos ignorados pelo Git
-└── 📄 docker-compose.yml             # Orquestração principal
 ```
 
 ## 📊 Pipeline de Dados Detalhado
@@ -328,12 +327,13 @@ O sistema utiliza 8 containers Docker especializados:
 - **Correlação**: Temperatura inversamente proporcional à poluição
 - **Eventos**: Identificação de episódios extremos
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-**Claudio AMF**
-- 🐙 GitHub: [@ClaudioAMF1](https://github.com/ClaudioAMF1)
-- 💼 LinkedIn: [Seu Perfil LinkedIn](https://linkedin.com/in/ClaudioAMF1)
-- 📧 Email: cmeireles756@gmail.com
+- **Claudio Meireles**
+- **Kelwin Menezes**
+- **Lucas Fiche**
+- **Pedro Araújo**
+
 
 ## 📊 Estatísticas do Projeto
 
